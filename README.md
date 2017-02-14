@@ -1,10 +1,10 @@
 # A very first step gittest of Mr.AUNG PYAE
-I am on Fedora25 
-Install Git on ur local computer 
+I am on Fedora25.
+First,We must install Git on ur local computer.
 #dnf -y install git 
-and you add your git account to ur local computer.Commands are 
-git config --global user.email "aungpyae89@gmail.com"       #change with ur github user email
-git config --global user.name "aungpyae89"                    #change with ur username 
+and you add your git account to ur local computer.Commands are: 
+#git config --global user.email "aungpyae89@gmail.com"       #change with ur github user email
+#git config --global user.name "aungpyae89"                    #change with ur username 
 then make a directory in ur local computer 
 #mkdir gittest   ("gittest" might be ur reponame)
 Change Directory into this directory 
@@ -27,5 +27,5 @@ its will ask you username and password of ur github
 refresh or press ur new repo page on github.com u can see ur README.md file on the 
 You can add more files or data same as  this way 
 
-Thanks 
-./Aung Pyae 
+"Thanks"
+./Aung Pyae./
